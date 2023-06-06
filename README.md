@@ -1,6 +1,25 @@
-# HTML---ASSESSMENT--3
-## REGISTER NO : 212221240029
-## NAME : MONISHA T
+# EXP 09 - BIRTHDAY CARD
+
+## AIM:
+
+To create a Birthday card using HTML and CSS
+
+## SOFTWARE:
+
+Visual Studio Code.
+
+## ALGORITHM:
+
+1. Set up the basic structure of your HTML document and include the CSS stylesheet.
+
+2. Design the layout of your birthday card using HTML elements such as < div >, < h1 >, < p >, < img >, and < span >. 
+
+3. Add a container < div > to hold the entire birthday card content.
+  
+4. Use paragraph tag to disply the personalised greeting. Add an image element to display a birthday-themed image.
+
+## PROGRAM:
+
 
 ### HTML PROGRAM FOR FRONT PAGE
 
@@ -324,12 +343,16 @@ body {
   
   ```
   
-  ### OUTPUT 
+  ## OUTPUT 
   
-  #### FRONT - PAGE 
+  ### FRONT - PAGE 
   
   <img width="1280" alt="image" src="https://user-images.githubusercontent.com/93427240/230823280-c01f218d-c656-488b-9d82-8efa6c04fe1d.png">
 
-  #### INSIDE - PAGE
+  ### INSIDE - PAGE
   
   <img width="1199" alt="image" src="https://user-images.githubusercontent.com/93427240/230823553-fd3a1b2c-4075-4b49-bf7f-f27715a4043c.png">
+  
+  ## RESULT:
+  
+  So, a birthday card is created using CSS and HTML.
